@@ -1,0 +1,15 @@
+/* 
+  Search.strings
+  InternshipTrello
+
+  Created by Ivan Suntsov on 20.12.2021.
+  
+*/
+
+"search_title" = "Search";
+"search_bar_placeholder" = "Search for boards and cards...";
+"no_results_message" = "No results matching your criteria";
+"error_message" = "Some error occured";
+"boards_section_header" = "Boards";
+"cards_section_header" = "Cards";
+"note" = "Note: search for cards works only for text length >= 3 symbols";

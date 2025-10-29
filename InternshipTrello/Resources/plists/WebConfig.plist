@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OAuth1Secret</key>
+	<string>b5b49ea1effa858cf6d4d93a6f18eae3cf1b5bf1b7cbcbd77349b45aac40aac6</string>
+	<key>DevAPIKey</key>
+	<string>f7881ac6b91c25eaab250b28acce5dc5</string>
+</dict>
+</plist>

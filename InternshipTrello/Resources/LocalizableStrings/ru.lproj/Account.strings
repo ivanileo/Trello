@@ -1,0 +1,24 @@
+/* 
+  Account.strings
+  InternshipTrello
+
+  Created by Ivan Suntsov on 16.11.2021.
+  
+*/
+
+/* Authorization page titles. */
+"trello_title" = "Trello";
+"auth_button" = "Авторизоваться";
+
+/* Account info page titles. */
+"account_title" = "Аккаунт";
+"initials_title" = "Инициалы:";
+"username_title" = "Логин:";
+"url_title" = "URL:";
+"logout_button" = "Выйти";
+
+/* Confirmation dialog alert titles. */
+"authorized_alert_title" = "Вы были авторизованы";
+"authorized_alert_message" = "Нажмите 'Продолжить' чтобы начать пользоваться приложением и 'Отменить' чтобы пройти авторизацию снова.";
+"authorized_alert_continue" = "Продолжить";
+"authorized_alert_cancel" = "Отменить";

@@ -1,0 +1,10 @@
+/* 
+  Boards.strings
+  InternshipTrello
+
+  Created by Ivan Suntsov on 26.11.2021.
+  
+*/
+
+"boards_screen_title" = "Boards";
+"empty_board_desc" = "Description is empty.";

@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "validName1",
+        "id" : "validId1",
+        "idList" : "validCategoryId1"
+    },
+    {
+        "name" : "validName2",
+        "id" : "validId2",
+        "idList" : "validCategoryId1"
+    },
+    {
+        "name" : "validName3",
+        "id" : "validId3",
+        "idList" : "validCategoryId1"
+    },
+    {
+        "name" : "validName4",
+        "id" : "validId4",
+        "idList" : "validCategoryId2"
+    },
+    {
+        "name" : "validName5",
+        "id" : "validId5",
+        "idList" : "validCategoryId2"
+    },
+    {
+        "name" : "validName6",
+        "id" : "validId6",
+        "idList" : "validCategoryId3"
+    }
+]

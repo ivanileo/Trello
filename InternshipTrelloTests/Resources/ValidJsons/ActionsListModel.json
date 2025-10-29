@@ -1,0 +1,20 @@
+[
+    {
+        "id" : "validId1",
+        "type" : "validType1",
+        "date" : "validDate1",
+        "memberCreator" :
+        {
+            "username" : "validUsername1"
+        }
+    },
+    {
+        "id" : "validId2",
+        "type" : "validType2",
+        "date" : "validDate2",
+        "memberCreator" :
+        {
+            "username" : "validUsername2"
+        }
+    }
+]

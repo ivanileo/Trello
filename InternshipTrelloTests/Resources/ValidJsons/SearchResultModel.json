@@ -1,0 +1,55 @@
+{
+    "cards" :
+    [
+        {
+            "name" : "validName1",
+            "id" : "validId1",
+            "idList" : "validCategoryId1"
+        },
+        {
+            "name" : "validName2",
+            "id" : "validId2",
+            "idList" : "validCategoryId2"
+        },
+        {
+            "name" : "validName3",
+            "id" : "validId3",
+            "idList" : "validCategoryId3"
+        },
+        {
+            "name" : "validName4",
+            "id" : "validId4",
+            "idList" : "validCategoryId4"
+        },
+        {
+            "name" : "validName5",
+            "id" : "validId5",
+            "idList" : "validCategoryId5"
+        },
+        {
+            "name" : "validName6",
+            "id" : "validId6",
+            "idList" : "validCategoryId6"
+        }
+    ]
+,
+    "boards" :
+    [
+        {
+            "name" : "validName1",
+            "id" : "validId1",
+            "prefs" : {
+                "backgroundImage" :
+                "validBackgroundImage1"
+            }
+        },
+        {
+            "name" : "validName2",
+            "id" : "validId2",
+            "prefs" : {
+                "backgroundImage" :
+                "validBackgroundImage2"
+            }
+        }
+    ]
+}

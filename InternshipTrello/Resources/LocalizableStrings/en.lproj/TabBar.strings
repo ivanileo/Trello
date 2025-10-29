@@ -1,0 +1,13 @@
+/* 
+  TabBar.strings
+  InternshipTrello
+
+  Created by Ivan Suntsov on 17.11.2021.
+  
+*/
+
+/* Main tab bar items titles. */
+"account_item_title" = "Account";
+"actions_item_title" = "Actions";
+"boards_item_title" = "Boards";
+"search_item_title" = "Search";

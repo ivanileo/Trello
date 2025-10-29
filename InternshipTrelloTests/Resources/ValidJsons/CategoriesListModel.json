@@ -1,0 +1,14 @@
+[
+    {
+        "id": "validCategoryId1",
+        "name": "validName1"
+    },
+    {
+        "id": "validCategoryId2",
+        "name": "validName2"
+    },
+    {
+        "id": "validCategoryId3",
+        "name": "validName3"
+    }
+]

@@ -1,0 +1,13 @@
+/* 
+  Actions.strings
+  InternshipTrello
+
+  Created by Ivan Suntsov on 09.12.2021.
+  
+*/
+
+/* Time strings. */
+"displayed_date_format" = "MMM d, h:mm a";
+
+/* View labels. */
+"append_button_title" = "Load more";

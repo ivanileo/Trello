@@ -1,0 +1,24 @@
+/* 
+  Account.strings
+  InternshipTrello
+
+  Created by Ivan Suntsov on 16.11.2021.
+  
+*/
+
+/* Authorization page titles. */
+"trello_title" = "Trello";
+"auth_button" = "Authorize";
+
+/* Account info page titles. */
+"account_title" = "Account";
+"initials_title" = "Initials:";
+"username_title" = "Username:";
+"url_title" = "URL:";
+"logout_button" = "Logout";
+
+/* Confirmation dialog alert titles. */
+"authorized_alert_title" = "You have been authorized";
+"authorized_alert_message" = "Click 'Continue' to start using app and 'Cancel' to return to authorization page.";
+"authorized_alert_continue" = "Continue";
+"authorized_alert_cancel" = "Cancel";

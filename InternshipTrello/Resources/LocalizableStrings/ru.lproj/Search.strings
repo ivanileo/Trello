@@ -1,0 +1,15 @@
+/* 
+  Search.strings
+  InternshipTrello
+
+  Created by Ivan Suntsov on 20.12.2021.
+  
+*/
+
+"search_title" = "Поиск";
+"search_bar_placeholder" = "Искать среди досок и карточек...";
+"no_results_message" = "По вашему запросу не найдено результатов";
+"error_message" = "Возникла непредвиденная ошибка";
+"boards_section_header" = "Доски";
+"cards_section_header" = "Карточки";
+"note" = "Заметка: поиск по карточкам работает когда введено >= 3 символов";
